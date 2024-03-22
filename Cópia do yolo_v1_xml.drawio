@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T12:42:20.356Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PjyhrJ13viE-VLscA5kO" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T12:54:13.600Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AjcrTiKE54yGO0HvyZHY" version="24.0.7" type="github">
   <diagram id="zFlVRU_5h1scILDpNqvU" name="Page-1">
     <mxGraphModel dx="819" dy="449" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gk7VWWvbLwUDzhhFXbr7-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="52" y="137" width="350" height="322" as="geometry" />
+          <mxGeometry x="52" y="137" width="350" height="296" as="geometry" />
         </mxCell>
         <mxCell id="gk7VWWvbLwUDzhhFXbr7-28" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=58;perimeterSpacing=0;strokeColor=#6c8ebf;fillColor=#dae8fc;direction=south;labelPadding=0;" vertex="1" parent="1">
           <mxGeometry x="69" y="163.75" width="70" height="264" as="geometry" />
@@ -167,13 +167,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gk7VWWvbLwUDzhhFXbr7-27" value="Backbone VGG-16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="162" y="442" width="130" height="17" as="geometry" />
+          <mxGeometry x="162" y="413" width="130" height="17" as="geometry" />
         </mxCell>
         <mxCell id="gk7VWWvbLwUDzhhFXbr7-29" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=58;perimeterSpacing=0;strokeColor=#82b366;fillColor=#d5e8d4;direction=south;labelPadding=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="166" width="70" height="264" as="geometry" />
         </mxCell>
         <mxCell id="gk7VWWvbLwUDzhhFXbr7-30" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=58;perimeterSpacing=0;strokeColor=#6c8ebf;fillColor=#dae8fc;direction=south;labelPadding=0;" vertex="1" parent="1">
           <mxGeometry x="648" y="166" width="70" height="264" as="geometry" />
+        </mxCell>
+        <mxCell id="gk7VWWvbLwUDzhhFXbr7-34" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=7;perimeterSpacing=0;strokeColor=#d6b656;fillColor=#fff2cc;direction=south;labelPadding=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="475" width="35" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gk7VWWvbLwUDzhhFXbr7-35" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=7;perimeterSpacing=0;strokeColor=#6c8ebf;fillColor=#dae8fc;direction=south;labelPadding=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="438" width="35" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gk7VWWvbLwUDzhhFXbr7-36" value="Convolução + RELU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="316" y="445.5" width="97" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="gk7VWWvbLwUDzhhFXbr7-37" value="MaxPooling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="316" y="482.5" width="62" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="gk7VWWvbLwUDzhhFXbr7-38" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=7;perimeterSpacing=0;strokeColor=#b85450;fillColor=#f8cecc;direction=south;labelPadding=0;" vertex="1" parent="1">
+          <mxGeometry x="418" y="475" width="35" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gk7VWWvbLwUDzhhFXbr7-39" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=7;perimeterSpacing=0;strokeColor=#82b366;fillColor=#d5e8d4;direction=south;labelPadding=0;" vertex="1" parent="1">
+          <mxGeometry x="418" y="438" width="35" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gk7VWWvbLwUDzhhFXbr7-40" value="&lt;i&gt;Upsampling&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="456" y="445.5" width="58" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="gk7VWWvbLwUDzhhFXbr7-41" value="Concatenação" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="458" y="482.5" width="62" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
